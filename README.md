@@ -32,7 +32,7 @@ Diagnosing pediatric pneumonia consists of three crucial steps : identifying res
   -![My Image](images/40.png)
   -![My Image](images/41.png)
   
-## Contributors
+## Collaborators
 
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
 - [@RB-Younes](https://github.com/RB-Younes)
